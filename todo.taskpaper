@@ -1,0 +1,9 @@
+Kipple:
+    - Decide on a name!
+        There's some names to choose from in potentialnames.txt
+    - Decide on a license
+
+Server
+    - Work out basic API
+    - Implement simple REST handlers
+    - Decide on format for JSON-based requests
